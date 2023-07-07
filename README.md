@@ -20,7 +20,8 @@
  	<img src="https://img.shields.io/badge/Python-3876AB?style=flat&logo=Python&logoColor=white" />
  	<img src="https://img.shields.io/badge/C-659AD1?style=flat&logo=C&logoColor=white" />
  	<img src="https://img.shields.io/badge/C++-01589E?style=flat&logo=C&logoColor=white" />
- 	<img src="https://img.shields.io/badge/Java-F89916?style=flat&logo=Conda-Forge&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/Java-3D82A1?style=flat&logo=Conda-Forge&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/Scratch-F6A619?style=flat&logo=Scratch&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Django-082D1F?style=flat&logo=Django&logoColor=white" />	
 	<img src="https://img.shields.io/badge/Flask-0C7963?style=flat&logo=Flask&logoColor=white" />	
