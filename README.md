@@ -36,6 +36,8 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
+
+<!--
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
@@ -54,8 +56,11 @@
 	</a>
 	<br>
 </div>
+-->
+
+
 <div align=center>
-	<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun16&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=yonghun16&show_icons=true">
 
