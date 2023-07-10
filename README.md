@@ -6,50 +6,81 @@
 <div>
 	<h4>FrontEnd</h4>
 	<a href="https://html.spec.whatwg.org/">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" />
-	<img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+		<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>
+	<a href="https://www.w3.org/Style/CSS/">
+		<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>
+	<a href="https://pugjs.org/">
+		<img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a>
+	<a href="https://sass-lang.com/">
+		<img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a>
+	<a href="https://www.ecma-international.org/">
+		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a>
+	<a href="https://www.typescriptlang.org/">
+		<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a>
 	<br>
-	<img src="https://img.shields.io/badge/Vue.js-34A06F?style=flat&logo=Vue.js&logoColor=white" />	
-	<img src="https://img.shields.io/badge/React.js-282C34?style=flat&logo=React&logoColor=white" />	
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+	<a href="https://vuejs.org/">
+		<img src="https://img.shields.io/badge/Vue.js-34A06F?style=flat&logo=Vue.js&logoColor=white" /></a>
+	<a href="https://ko.legacy.reactjs.org/">
+		<img src="https://img.shields.io/badge/React.js-282C34?style=flat&logo=React&logoColor=white" /></a>	
+	<a href="https://jquery.com/">
+		<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /></a>
+	<a href="https://getbootstrap.com/">
+		<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /></a>
 	<h4>BackEnd</h4>
- 	<img src="https://img.shields.io/badge/Python-3876AB?style=flat&logo=Python&logoColor=white" />
- 	<img src="https://img.shields.io/badge/C-659AD1?style=flat&logo=C&logoColor=white" />
- 	<img src="https://img.shields.io/badge/C++-01589E?style=flat&logo=C&logoColor=white" />
- 	<img src="https://img.shields.io/badge/Java-3D82A1?style=flat&logo=Conda-Forge&logoColor=white" />
- 	<img src="https://img.shields.io/badge/Scratch-F6A619?style=flat&logo=Scratch&logoColor=white" />
+ 	<a href="https://www.python.org/">
+		<img src="https://img.shields.io/badge/Python-3876AB?style=flat&logo=Python&logoColor=white" /></a>
+ 	<a href="https://devdocs.io/c/">
+		<img src="https://img.shields.io/badge/C-659AD1?style=flat&logo=C&logoColor=white" /></a>
+ 	<a href="https://isocpp.org/">
+		<img src="https://img.shields.io/badge/C++-01589E?style=flat&logo=C&logoColor=white" /></a>
+ 	<a href="https://www.java.com/">
+		<img src="https://img.shields.io/badge/Java-3D82A1?style=flat&logo=Conda-Forge&logoColor=white" /></a>
+ 	<a href="https://scratch.mit.edu/">
+		<img src="https://img.shields.io/badge/Scratch-F6A619?style=flat&logo=Scratch&logoColor=white" /></a>
 	<br>
-	<img src="https://img.shields.io/badge/Django-082D1F?style=flat&logo=Django&logoColor=white" />	
-	<img src="https://img.shields.io/badge/Flask-0C7963?style=flat&logo=Flask&logoColor=white" />	
-	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<a href="https://www.djangoproject.com/">
+		<img src="https://img.shields.io/badge/Django-082D1F?style=flat&logo=Django&logoColor=white" /></a>
+	<a href="https://flask.palletsprojects.com/">
+		<img src="https://img.shields.io/badge/Flask-0C7963?style=flat&logo=Flask&logoColor=white" /></a>
+	<a href="https://www.selenium.dev/">
+		<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" /></a>
+	<a href="https://spring.io/">
+		<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /></a>
 	<h4>DevOps</h4>
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+	<a href="https://www.linuxfoundation.org/">
+		<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" /></a>
+	<a href="https://www.oracle.com/database/">
+		<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
+	<a href="https://www.mysql.com/">
+		<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></a>
+	<a href="https://mariadb.org/">
+		<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" /></a>
 	<br>
-	<img src="https://img.shields.io/badge/Apache-D32E35?style=flat&logo=Apache&logoColor=white" />
-	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
- 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+	<a href="https://httpd.apache.org/">
+		<img src="https://img.shields.io/badge/Apache-D32E35?style=flat&logo=Apache&logoColor=white" /></a>
+	<a href="https://www.nginx.com/">
+		<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a>
+ 	<a href="https://tomcat.apache.org/">
+		<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" /></a>
 	<br>
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<a href="https://aws.amazon.com/">
+ 		<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" /></a>
+	<a href="https://www.oracle.com/cloud/">
+ 		<img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
+	<a href="https://github.com/">
+ 		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
 </div>
 <br><br>
 <div>
 	<h2>🛠 Tools</h2>
 </div>
 <div>
-	<img src="https://img.shields.io/badge/Neovim-01B952?style=flat&logo=neovim&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<a href="https://neovim.io/">
+		<img src="https://img.shields.io/badge/Neovim-01B952?style=flat&logo=neovim&logoColor=white" /></a>
+	<a href="https://code.visualstudio.com/">
+		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /></a>
+	<a href="https://www.eclipse.org/">
+		<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" /></a>
 </div>
 <br>
 
