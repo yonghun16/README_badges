@@ -5,7 +5,8 @@
 </div>
 <div>
 	<h4>FrontEnd</h4>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<a href="https://html.spec.whatwg.org/">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" />
 	<img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" />
