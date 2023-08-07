@@ -13,7 +13,8 @@
 	<!-- TypeScript --><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a>
 	<br>
 	<!-- Vue.js --><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-34A06F?style=flat&logo=Vue.js&logoColor=white" /></a>
-	<!-- React.js --><a href="https://ko.legacy.reactjs.org/"><img src="https://img.shields.io/badge/React.js-282C34?style=flat&logo=React&logoColor=white" /></a>	
+	<!-- React.js --><a href="https://ko.legacy.reactjs.org/"><img src="https://img.shields.io/badge/React.js-282C34?style=flat&logo=React&logoColor=white" /></a>
+	<!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a>
 	<!-- jQuery --><a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /></a>
 	<!-- Bootstrap --><a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /></a>
 	<h4>BackEnd</h4>
