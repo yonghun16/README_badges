@@ -8,18 +8,20 @@
 	<!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>
 	<!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>
 	<!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a>
+	<!-- jQuery --><a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /></a>
+	<!-- Bootstrap --><a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /></a>
+	<br>
 	<!-- PUG --><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a>
 	<!-- SCSS --><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a>
 	<!-- TypeScript --><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a>
 	<br>
 	<!-- Vue.js --><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-34A06F?style=flat&logo=Vue.js&logoColor=white" /></a>
 	<!-- React.js --><a href="https://ko.legacy.reactjs.org/"><img src="https://img.shields.io/badge/React.js-58B4CD?style=flat&logo=React&logoColor=white" /></a>
-	<!-- jQuery --><a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /></a>
-	<!-- Bootstrap --><a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /></a>
+	<!-- React Native --><a href="https://ko.legacy.reactjs.org/"><img src="https://img.shields.io/badge/React Native-58B4CD?style=flat&logo=React&logoColor=white" /></a>
+	<!-- Flutter --><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-35B7F5?style=flat&logo=Flutter&logoColor=white" /></a>
 	<br>
 	<!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a>
-	<!-- PWA --><a href="https://web.dev/progressive-web-apps/"><img src="https://img.shields.io/badge/PWA-6601ED?style=flat&logo=PWA&logoColor=white" /></a> 
-	<!-- Flutter --><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-35B7F5?style=flat&logo=Flutter&logoColor=white" /></a> 
+	<!-- PWA --><a href="https://web.dev/progressive-web-apps/"><img src="https://img.shields.io/badge/PWA-6601ED?style=flat&logo=PWA&logoColor=white" /></a>  
 	<h4>BackEnd</h4>
  	<!-- Python --><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3876AB?style=flat&logo=Python&logoColor=white" /></a>
  	<!-- C --><a href="https://devdocs.io/c/"><img src="https://img.shields.io/badge/C-659AD1?style=flat&logo=C&logoColor=white" /></a>
