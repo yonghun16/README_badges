@@ -13,10 +13,13 @@
 	<!-- TypeScript --><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a>
 	<br>
 	<!-- Vue.js --><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-34A06F?style=flat&logo=Vue.js&logoColor=white" /></a>
-	<!-- React.js --><a href="https://ko.legacy.reactjs.org/"><img src="https://img.shields.io/badge/React.js-282C34?style=flat&logo=React&logoColor=white" /></a>
-	<!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a>
+	<!-- React.js --><a href="https://ko.legacy.reactjs.org/"><img src="https://img.shields.io/badge/React.js-58B4CD?style=flat&logo=React&logoColor=white" /></a>
 	<!-- jQuery --><a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /></a>
 	<!-- Bootstrap --><a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /></a>
+	<br>
+	<!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a>
+	<!-- PWA --><a href="https://web.dev/progressive-web-apps/"><img src="https://img.shields.io/badge/PWA-6601ED?style=flat&logo=PWA&logoColor=white" /></a> 
+	<!-- Flutter --><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-35B7F5?style=flat&logo=Flutter&logoColor=white" /></a> 
 	<h4>BackEnd</h4>
  	<!-- Python --><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3876AB?style=flat&logo=Python&logoColor=white" /></a>
  	<!-- C --><a href="https://devdocs.io/c/"><img src="https://img.shields.io/badge/C-659AD1?style=flat&logo=C&logoColor=white" /></a>
@@ -29,18 +32,18 @@
 	<!-- Selenium --><a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" /></a>
 	<!-- Spring --><a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /></a>
 	<h4>DevOps</h4>
-	<!-- Linux --><a href="https://www.linuxfoundation.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" /></a>
 	<!-- Oracle-db --><a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 	<!-- MySQL --><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></a>
 	<!-- MariaDB --><a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" /></a>
 	<br>
 	<!-- Apache --><a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-D32E35?style=flat&logo=Apache&logoColor=white" /></a>
 	<!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a>
- 	<!-- Tomcat --><a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" /></a>
+ 	<!-- Tomcat --><a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black" /></a>
 	<br>
 	<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" /></a>
 	<!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 	<!-- Github --><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
+	<!-- Linux --><a href="https://www.linuxfoundation.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" /></a>
 </div>
 <br><br>
 <div>
