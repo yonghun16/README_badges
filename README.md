@@ -7,9 +7,9 @@
 	<h4>FrontEnd</h4>
 	<!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>
 	<!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>
+	<!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a>
 	<!-- PUG --><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a>
 	<!-- SCSS --><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a>
-	<!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a>
 	<!-- TypeScript --><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a>
 	<br>
 	<!-- Vue.js --><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-34A06F?style=flat&logo=Vue.js&logoColor=white" /></a>
