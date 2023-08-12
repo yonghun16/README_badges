@@ -20,6 +20,7 @@
 	<!-- React Native --><a href="https://ko.legacy.reactjs.org/"><img src="https://img.shields.io/badge/React Native-58B4CD?style=flat&logo=React&logoColor=white" /></a>
 	<!-- Flutter --><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-35B7F5?style=flat&logo=Flutter&logoColor=white" /></a>
 	<br>
+	<!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-A647F5?style=flat&logo=Vite&logoColor=white" /></a>
 	<!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a>
 	<!-- PWA --><a href="https://web.dev/progressive-web-apps/"><img src="https://img.shields.io/badge/PWA-6601ED?style=flat&logo=PWA&logoColor=white" /></a>  
 	<h4>BackEnd</h4>
