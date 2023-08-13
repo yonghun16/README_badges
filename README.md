@@ -36,6 +36,7 @@
  	<!-- Java --><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-3D82A1?style=flat&logo=Conda-Forge&logoColor=white" /></a>
  	<!-- Scratch --><a href="https://scratch.mit.edu/"><img src="https://img.shields.io/badge/Scratch-F6A619?style=flat&logo=Scratch&logoColor=white" /></a>
 	<br>
+	<!-- NestJS --><a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-EA2845?style=flat&logo=Nestjs&logoColor=white" /></a>
 	<!-- Django --><a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-082D1F?style=flat&logo=Django&logoColor=white" /></a>
 	<!-- Flask --><a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-0C7963?style=flat&logo=Flask&logoColor=white" /></a>
 	<!-- Selenium --><a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" /></a>
