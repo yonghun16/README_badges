@@ -42,13 +42,14 @@
 	<h4>DevOps</h4>
 	<!-- Oracle-db --><a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 	<!-- MySQL --><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></a>
-	<!-- MariaDB --><a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" /></a>
+	<!-- MariaDB --><a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-BA7157?style=flat&logo=MariaDB&logoColor=white" /></a>
+	<!-- MongoDB --><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-016448?style=flat&logo=MongoDB&logoColor=white" /></a>
 	<br>
 	<!-- Apache --><a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-D32E35?style=flat&logo=Apache&logoColor=white" /></a>
 	<!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a>
  	<!-- Tomcat --><a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black" /></a>
 	<br>
-	<!-- Docker --><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0A6CD7?style=flat&logo=Docker&logoColor=white" /></a>
+	<!-- Docker --><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-023430?style=flat&logo=MongoDB&logoColor=white" /></a>
 	<!-- Kubernetes --><a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-3271E2?style=flat&logo=Kubernetes&logoColor=white" /></a>
 	<br>
 	<!-- Debian --><a href="https://www.debian.org/"><img src="https://img.shields.io/badge/debian-D80150?style=flat&logo=debian&logoColor=White" /></a>
