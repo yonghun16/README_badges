@@ -66,7 +66,7 @@
 	<!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 	<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white" /></a>
 </div>
-<br><br>
+<br>
 <div>
 	<h2>🛠 Tools</h2>
 </div>
