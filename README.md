@@ -61,8 +61,9 @@
 	<br>
 	<!-- Github --><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
 	<!-- Replit --><a href="https://github.com/"><img src="https://img.shields.io/badge/Replit-F26208?style=flat&logo=Replit&logoColor=white" /></a>
+	<!-- Firebase --><a href="https://firebase.google.com"/><img src="https://img.shields.io/badge/Firebase-F79628?style=flat&logo=Firebase&logoColor=white" /></a>
 	<!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
-	<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" /></a>
+	<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white" /></a>
 </div>
 <br><br>
 <div>
