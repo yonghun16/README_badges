@@ -29,7 +29,7 @@
 	<!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a>
 	<!-- PWA --><a href="https://web.dev/progressive-web-apps/"><img src="https://img.shields.io/badge/PWA-6601ED?style=flat&logo=PWA&logoColor=white" /></a>  
 	<h4>BackEnd</h4>
-	<!-- Node.js --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/Node.js-009639?style=flat&logo=Node.js&logoColor=white" /></a>
+	<!-- Node.js --><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-44843D?style=flat&logo=Node.js&logoColor=white" /></a>
  	<!-- Python --><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3876AB?style=flat&logo=Python&logoColor=white" /></a>
  	<!-- C --><a href="https://devdocs.io/c/"><img src="https://img.shields.io/badge/C-659AD1?style=flat&logo=C&logoColor=white" /></a>
  	<!-- C++ --><a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-01589E?style=flat&logo=C&logoColor=white" /></a>
