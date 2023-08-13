@@ -48,6 +48,9 @@
 	<!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a>
  	<!-- Tomcat --><a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black" /></a>
 	<br>
+	<!-- Docker --><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0A6CD7?style=flat&logo=Docker&logoColor=white" /></a>
+	<!-- Kubernetes --><a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-3271E2?style=flat&logo=Kubernetes&logoColor=white" /></a>
+	<br>
 	<!-- Debian --><a href="https://www.debian.org/"><img src="https://img.shields.io/badge/debian-D80150?style=flat&logo=debian&logoColor=White" /></a>
 	<!-- Ubuntu --><a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E9531F?style=flat&logo=Ubuntu&logoColor=FFFFFF" /></a>
 	<!-- Redhat --><a href="https://www.redhat.com/"><img src="https://img.shields.io/badge/Redhat-ED0000?style=flat&logo=Redhat&logoColor=White" /></a>
