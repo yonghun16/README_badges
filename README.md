@@ -43,10 +43,11 @@
 	<!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a>
  	<!-- Tomcat --><a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black" /></a>
 	<br>
-	<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" /></a>
-	<!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 	<!-- Github --><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
-	<!-- Linux --><a href="https://www.linuxfoundation.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" /></a>
+	<!-- Replit --><a href="https://github.com/"><img src="https://img.shields.io/badge/Replit-F26208?style=flat&logo=Replit&logoColor=white" /></a>
+	<!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
+	<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" /></a>	
+	 <!-- Linux --><a href="https://www.linuxfoundation.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" /></a>
 </div>
 <br><br>
 <div>
