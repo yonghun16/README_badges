@@ -16,7 +16,12 @@
 	<!-- TypeScript --><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a>
 	<br>
 	<!-- Vue.js --><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-34A06F?style=flat&logo=Vue.js&logoColor=white" /></a>
-	<!-- React.js --><a href="https://ko.legacy.reactjs.org/"><img src="https://img.shields.io/badge/React.js-58B4CD?style=flat&logo=React&logoColor=white" /></a>
+	<!-- Vuex --><a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-33465B?style=flat&logo=Vue.js&logoColor=white" /></a>
+	<!-- Nuxt.js --><a href="https://nuxt.com/"><img src="https://img.shields.io/badge/Nuxt.js-00DC81?style=flat&logo=Nuxt.js&logoColor=White" /></a>
+	<!-- React.js --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React.js-58B4CD?style=flat&logo=React&logoColor=white" /></a>
+ 	<!-- Reducx --><a href="https://react-redux.js.org/"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>
+	<!-- Next.js --><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a>
+	<br>
 	<!-- React Native --><a href="https://ko.legacy.reactjs.org/"><img src="https://img.shields.io/badge/React Native-58B4CD?style=flat&logo=React&logoColor=white" /></a>
 	<!-- Flutter --><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-35B7F5?style=flat&logo=Flutter&logoColor=white" /></a>
 	<br>
@@ -43,11 +48,16 @@
 	<!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a>
  	<!-- Tomcat --><a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black" /></a>
 	<br>
+	<!-- Linux --><a href="https://www.linuxfoundation.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" /></a>
+	<!-- Debian --><a href="https://www.debian.org/"><img src="https://img.shields.io/badge/debian-D80150?style=flat&logo=debian&logoColor=White" /></a>
+	<!-- Ubuntu --><a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-FFFFFF?style=flat&logo=Ubuntu&logoColor=White" /></a>
+	<!-- Redhat --><a href="https://www.redhat.com/"><img src="https://img.shields.io/badge/Redhat-ED0000?style=flat&logo=Redhat&logoColor=White" /></a>
+	<!-- CentOS --><a href="https://www.centos.org/"><img src="https://img.shields.io/badge/Centos-A04E8C?style=flat&logo=Centos&logoColor=White" /></a>
+	<br>
 	<!-- Github --><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
 	<!-- Replit --><a href="https://github.com/"><img src="https://img.shields.io/badge/Replit-F26208?style=flat&logo=Replit&logoColor=white" /></a>
 	<!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
-	<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" /></a>	
-	 <!-- Linux --><a href="https://www.linuxfoundation.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" /></a>
+	<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" /></a>
 </div>
 <br><br>
 <div>
