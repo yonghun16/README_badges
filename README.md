@@ -22,7 +22,7 @@
  	<!-- Reducx --><a href="https://react-redux.js.org/"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>
 	<!-- Next.js --><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a>
 	<br>
-	<!-- React Native --><a href="https://ko.legacy.reactjs.org/"><img src="https://img.shields.io/badge/React Native-58B4CD?style=flat&logo=React&logoColor=white" /></a>
+	<!-- React Native --><a href="https://ko.legacy.reactjs.org/"><img src="https://img.shields.io/badge/React Native-AD53BD?style=flat&logo=React&logoColor=white" /></a>
 	<!-- Flutter --><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-35B7F5?style=flat&logo=Flutter&logoColor=white" /></a>
 	<br>
 	<!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-636CFF?style=flat&logo=Vite&logoColor=white" /></a>
