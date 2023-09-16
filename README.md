@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=README%20헤더&fontSize=45&animation=fadeIn&fontAlignY=38&desc=FrontEnd16&descAlignY=55&descAlign=85)
 
-<div>
-	<h2>📚 Tech Stack</h2>
-</div>
+## 📚 Tech Stack
+
 <div>
 	<h4>FrontEnd</h4>
 	<!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>
@@ -68,11 +67,20 @@
 	<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white" /></a>
 </div>
 <br>
-<div>
-	<h2>🛠 Tools</h2>
-</div>
+
+## 🛠 Tools
+
 <div>
 	<!-- Novim --><a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-01B952?style=flat&logo=neovim&logoColor=white" /></a>
 	<!-- VScode --><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /></a>
 	<!-- Eclipes --><a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" /></a>
+</div>
+<br>
+
+## 🔗 Etc Link
+<div>
+	<!-- Programmers --><a href="https://programmers.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/programmers.png" height=20px /></a>
+	<!-- Backjun --><a href="https://www.acmicpc.net/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/backjun.png" height=20px /></a>
+	<!-- Goorm --><a href="https://level.goorm.io/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/goorm.png" height=20px /></a>
+	<!-- Jungol--><a href="https://www.jungol.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/jungol.png" height=20px /></a>
 </div>
