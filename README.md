@@ -68,7 +68,7 @@
 	<!-- Firebase --><a href="https://firebase.google.com"/><img src="https://img.shields.io/badge/Firebase-F79628?style=flat&logo=Firebase&logoColor=white" /></a>
 	<!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 	<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white" /></a>
-	<h4>Edu Platform</h4>
+	<h4>Platform of Education</h4>
 	<!-- Scratch --><a href="https://scratch.mit.edu/"><img src="https://img.shields.io/badge/Scratch-F6A619?style=flat&logo=Scratch&logoColor=white" /></a>
 </div>
 <br />
