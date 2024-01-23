@@ -37,6 +37,7 @@
  	<!-- C++ --><a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-01589E?style=flat&logo=C&logoColor=white" /></a>
  	<!-- Java --><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-3D82A1?style=flat&logo=Conda-Forge&logoColor=white" /></a>
 	<br />
+	<!-- Express.js --><a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-303030?style=flat&logo=Express&logoColor=white" /></a>
 	<!-- NestJS --><a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-EA2845?style=flat&logo=Nestjs&logoColor=white" /></a>
 	<!-- Django --><a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-082D1F?style=flat&logo=Django&logoColor=white" /></a>
 	<!-- Flask --><a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-0C7963?style=flat&logo=Flask&logoColor=white" /></a>
@@ -67,6 +68,8 @@
 	<!-- Firebase --><a href="https://firebase.google.com"/><img src="https://img.shields.io/badge/Firebase-F79628?style=flat&logo=Firebase&logoColor=white" /></a>
 	<!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 	<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white" /></a>
+	<h4>Edu Platform</h4>
+	<!-- Scratch --><a href="https://scratch.mit.edu/"><img src="https://img.shields.io/badge/Scratch-F6A619?style=flat&logo=Scratch&logoColor=white" /></a>
 </div>
 <br />
 
@@ -81,12 +84,10 @@
 </div>
 <br />
 
-## 🔗 Etc Link
+## 🔗 Etc
 <div>
 	<!-- Programmers --><a href="https://programmers.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/programmers.png" height=20px /></a>
 	<!-- Backjun --><a href="https://www.acmicpc.net/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/backjun.png" height=20px /></a>
 	<!-- Goorm --><a href="https://level.goorm.io/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/goorm.png" height=20px /></a>
 	<!-- Jungol--><a href="https://www.jungol.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/jungol.png" height=20px /></a>
-	<br />
-	<!-- Scratch --><a href="https://scratch.mit.edu/"><img src="https://img.shields.io/badge/Scratch-F6A619?style=flat&logo=Scratch&logoColor=white" /></a>
 </div>
