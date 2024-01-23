@@ -76,6 +76,7 @@
 ## 🛠 Tools
 
 <div>
+	<!-- Vim --><a href="https://www.vim.org"><img src="https://img.shields.io/badge/Vim-19903D?style=flat&logo=vim&logoColor=white" /></a>
 	<!-- Novim --><a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-01B952?style=flat&logo=neovim&logoColor=white" /></a>
 	<!-- VScode --><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /></a>
 	<!-- Sublime Text --><a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white" /></a>
@@ -84,8 +85,12 @@
 	<br />
 	<!-- Gimp --><a href="https://www.gimp.org/"><img src="https://img.shields.io/badge/Gimp-0E2326?style=flat&logo=gimp&logoColor=white" /></a>
 	<!-- Photopea --><a href="https://www.photopea.com/"><img src="https://img.shields.io/badge/Photopea-18A497?style=flat&logo=photopea&logoColor=white" /></a>
+	<!-- InkScape --><a href="https://inkscape.org/"><img src="https://img.shields.io/badge/InkScape-191919?style=flat&logo=inkscape&logoColor=white" /></a>
+	<!-- Blender --><a href="https://www.blender.org"><img src="https://img.shields.io/badge/Blender-E27203?style=flat&logo=blender&logoColor=white" /></a>
+	<br />
 	<!-- PhotoShop --><a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobePhotoshop&logoColor=white" /></a>
 	<!-- Illustrator --><a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FEA607?style=flat&logo=adobeIllustrator&logoColor=white" /></a>
+	<!-- Indesign --><a href="https://www.adobe.com/products/indesign.html"><img src="https://img.shields.io/badge/Adobe%20Indesign-FF3266?style=flat&logo=adobeIndesign&logoColor=white" /></a>
 	<br />
 	<!-- Chat GPT --><a href="https://openai.com/"><img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white" /></a>
 </div>
