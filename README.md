@@ -78,7 +78,12 @@
 <div>
 	<!-- Novim --><a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-01B952?style=flat&logo=neovim&logoColor=white" /></a>
 	<!-- VScode --><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /></a>
+	<!-- Jet Brains --><a href="https://www.jetbrains.com/"><img src="https://img.shields.io/badge/Jet%20Brains-080809?style=flat&logo=jetbrains&logoColor=white" /></a>	
 	<!-- Eclipes --><a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" /></a>
+	<br />
+	<!-- Gimp --><a href="https://www.gimp.org/"><img src="https://img.shields.io/badge/Gimp-0E2326?style=flat&logo=gimp&logoColor=white" /></a>
+	<!-- Photopea --><a href="https://www.photopea.com/"><img src="https://img.shields.io/badge/Photopea-18A497?style=flat&logo=photopea&logoColor=white" /></a>
+	<!-- PhotoShop --><a href="https://www.adobe.com/products/photoshop.html/"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobePhotoshop&logoColor=white" /></a>
 	<br />
 	<!-- Open AI --><a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" /></a>
 </div>
