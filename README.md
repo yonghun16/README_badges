@@ -51,20 +51,25 @@
 	<h4>DevOps</h4>
 	<!-- Apache --><a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-D32E35?style=flat&logo=Apache&logoColor=white" /></a>
 	<!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a>
+	<!-- IIS --><a href="https://www.iis.net/"><img src="https://img.shields.io/badge/IIS-053E54?style=flat&logo=Microsoft&logoColor=white" /></a>
  	<!-- Tomcat --><a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black" /></a>
 	<br />
 	<!-- Docker --><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0A6CD7?style=flat&logo=Docker&logoColor=white" /></a>
 	<!-- Kubernetes --><a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-3271E2?style=flat&logo=Kubernetes&logoColor=white" /></a>
 	<br />
-	<!-- Debian --><a href="https://www.debian.org/"><img src="https://img.shields.io/badge/debian-D80150?style=flat&logo=debian&logoColor=White" /></a>
+	<!-- Debian --><a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-D80150?style=flat&logo=debian&logoColor=White" /></a>
 	<!-- Ubuntu --><a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E9531F?style=flat&logo=Ubuntu&logoColor=FFFFFF" /></a>
 	<!-- Redhat --><a href="https://www.redhat.com/"><img src="https://img.shields.io/badge/Redhat-ED0000?style=flat&logo=Redhat&logoColor=White" /></a>
+	<!-- Suse --><a href="https://www.suse.com/"><img src="https://img.shields.io/badge/SUSE-30B978?style=flat&logo=suse&logoColor=White" /></a>
+	<!-- Kali Linux --><a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali%20Linux-FFFFFF?style=flat&logo=kalilinux&logoColor=White" /></a>
 	<!-- Oracle Linux --><a href="https://www.oracle.com/linux/"><img src="https://img.shields.io/badge/Oracle Linux-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 	<!-- CentOS --><a href="https://www.centos.org/"><img src="https://img.shields.io/badge/Centos-A04E8C?style=flat&logo=Centos&logoColor=White" /></a>
-	<!-- Linux --><a href="https://www.linuxfoundation.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=000000" /></a>
 	<br />
 	<!-- Github --><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
-	<!-- Replit --><a href="https://github.com/"><img src="https://img.shields.io/badge/Replit-F26208?style=flat&logo=Replit&logoColor=white" /></a>
+	<!-- Replit --><a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-F26208?style=flat&logo=Replit&logoColor=white" /></a>
+	<!-- Netlify --><a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/netlify-1EC0B1?style=flat&logo=Netlify&logoColor=white" /></a>
+	<!-- Vercel --><a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a>
+	<br />
 	<!-- Firebase --><a href="https://firebase.google.com"/><img src="https://img.shields.io/badge/Firebase-F79628?style=flat&logo=Firebase&logoColor=white" /></a>
 	<!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 	<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white" /></a>
