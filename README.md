@@ -90,11 +90,12 @@
 	<br />
 	<!-- Gimp --><a href="https://www.gimp.org/"><img src="https://img.shields.io/badge/Gimp-0E2326?style=flat&logo=gimp&logoColor=white" /></a>
 	<!-- Photopea --><a href="https://www.photopea.com/"><img src="https://img.shields.io/badge/Photopea-18A497?style=flat&logo=photopea&logoColor=white" /></a>
+	<!-- PhotoShop --><a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobePhotoshop&logoColor=white" /></a>
 	<!-- InkScape --><a href="https://inkscape.org/"><img src="https://img.shields.io/badge/InkScape-191919?style=flat&logo=inkscape&logoColor=white" /></a>
+	<!-- Illustrator --><a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FEA607?style=flat&logo=adobeIllustrator&logoColor=white" /></a>
 	<!-- Blender --><a href="https://www.blender.org"><img src="https://img.shields.io/badge/Blender-E27203?style=flat&logo=blender&logoColor=white" /></a>
 	<br />
-	<!-- PhotoShop --><a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobePhotoshop&logoColor=white" /></a>
-	<!-- Illustrator --><a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FEA607?style=flat&logo=adobeIllustrator&logoColor=white" /></a>
+	<!-- Figma --><a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-F24D1D?style=flat&logo=figma&logoColor=white" /></a>
 	<!-- Indesign --><a href="https://www.adobe.com/products/indesign.html"><img src="https://img.shields.io/badge/Adobe%20Indesign-FF3266?style=flat&logo=adobeIndesign&logoColor=white" /></a>
 	<br />
 	<!-- Chat GPT --><a href="https://openai.com/"><img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white" /></a>
@@ -104,8 +105,8 @@
 
 ## 🔗 Etc
 <div>
-	<!-- Programmers --><a href="https://programmers.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/programmers.png" height=20px /></a>
 	<!-- Backjun --><a href="https://www.acmicpc.net/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/backjun.png" height=20px /></a>
 	<!-- Goorm --><a href="https://level.goorm.io/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/goorm.png" height=20px /></a>
 	<!-- Jungol--><a href="https://www.jungol.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/jungol.png" height=20px /></a>
+	<!-- Programmers --><a href="https://programmers.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/programmers.png" height=20px /></a>
 </div>
