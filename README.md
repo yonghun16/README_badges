@@ -12,6 +12,7 @@
 	<br />
 	<!-- PUG --><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a>
 	<!-- SCSS --><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a>
+	<!-- Tailwind CSS --><a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-37BCF8?style=flat&logo=tailwindcss&logoColor=white" /></a>
 	<!-- TypeScript --><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a>
 	<br />
 	<!-- Vue.js --><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-34A06F?style=flat&logo=Vue.js&logoColor=white" /></a>
