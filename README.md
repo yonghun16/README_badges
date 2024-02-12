@@ -27,6 +27,8 @@
 	<!-- React Native --><a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React Native-AD53BD?style=flat&logo=React&logoColor=white" /></a>
 	<!-- Flutter --><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-35B7F5?style=flat&logo=Flutter&logoColor=white" /></a>
 	<br />
+	<!-- NPM --><a href="https://www.npmjs.com"><img src="https://img.shields.io/badge/NPM-CB0001?style=flat&logo=npm&logoColor=white" /></a>
+	<!-- Yarn --><a href="https://yarnpkg.com"><img src="https://img.shields.io/badge/Yarn-514C87?style=flat&logo=yarn&logoColor=white" /></a>
 	<!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-636CFF?style=flat&logo=Vite&logoColor=white" /></a>
 	<!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a>
 	<!-- PWA --><a href="https://web.dev/progressive-web-apps/"><img src="https://img.shields.io/badge/PWA-6601ED?style=flat&logo=PWA&logoColor=white" /></a>  
