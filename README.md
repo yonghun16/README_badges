@@ -101,7 +101,7 @@
 	<!-- Figma --><a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-F24D1D?style=flat&logo=figma&logoColor=white" /></a>
 	<!-- Indesign --><a href="https://www.adobe.com/products/indesign.html"><img src="https://img.shields.io/badge/Adobe%20Indesign-FF3266?style=flat&logo=adobeIndesign&logoColor=white" /></a>
 	<br />
-	<!-- Chat GPT --><a href="https://openai.com/"><img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white" /></a>
+	<!-- OpenAI --><a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" /></a>
 	<!-- Youtube --><a href="https://www.youtube.com"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 </div>
 <br />
