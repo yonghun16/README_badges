@@ -5,24 +5,24 @@
 	<!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>
 	<!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>
 	<!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a>
-	<!-- jQuery --><a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /></a>
-	<!-- Bootstrap --><a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /></a>
+	<!-- jQuery --><a href="https://jquery.com"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /></a>
+	<!-- Bootstrap --><a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /></a>
 	<br />
-	<!-- PUG --><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a>
-	<!-- SCSS --><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a>
-	<!-- Tailwind CSS --><a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-37BCF8?style=flat&logo=tailwindcss&logoColor=white" /></a>
-	<!-- TypeScript --><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a>
+	<!-- PUG --><a href="https://pugjs.org"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a>
+	<!-- SCSS --><a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a>
+	<!-- Tailwind CSS --><a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind%20CSS-37BCF8?style=flat&logo=tailwindcss&logoColor=white" /></a>
+	<!-- TypeScript --><a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a>
 	<br />
 	<!-- Vue.js --><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-34A06F?style=flat&logo=Vue.js&logoColor=white" /></a>
 	<!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a>
 	<!-- Svelte --><a href="https://svelte.dev/"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white" /></a>
 	<!-- Angular --><a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=Angular&logoColor=white" /></a>	
 	<br />
-	<!-- Vuex --><a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-33465B?style=flat&logo=Vue.js&logoColor=white" /></a>
-	<!-- Nuxt.js --><a href="https://nuxt.com/"><img src="https://img.shields.io/badge/Nuxt.js-01BF89?style=flat&logo=Nuxt.js&logoColor=FFFFFF" /></a>
- 	<!-- Reducx --><a href="https://react-redux.js.org/"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>
-	<!-- Next.js --><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a>
-	<!-- NestJS --><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/NestJS-d9214c?style=flat&logo=Nestjs&logoColor=white" /></a>
+	<!-- Vuex --><a href="https://vuex.vuejs.org"><img src="https://img.shields.io/badge/Vuex-33465B?style=flat&logo=Vue.js&logoColor=white" /></a>
+	<!-- Nuxt.js --><a href="https://nuxt.com"><img src="https://img.shields.io/badge/Nuxt.js-01BF89?style=flat&logo=Nuxt.js&logoColor=FFFFFF" /></a>
+ 	<!-- Reducx --><a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>
+	<!-- Next.js --><a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a>
+	<!-- NestJS --><a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-d9214c?style=flat&logo=Nestjs&logoColor=white" /></a>
 	<br />
 	<!-- React Native --><a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React Native-AD53BD?style=flat&logo=React&logoColor=white" /></a>
 	<!-- Flutter --><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-35B7F5?style=flat&logo=Flutter&logoColor=white" /></a>
