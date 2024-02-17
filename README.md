@@ -22,7 +22,6 @@
 	<!-- Nuxt.js --><a href="https://nuxt.com"><img src="https://img.shields.io/badge/Nuxt.js-01BF89?style=flat&logo=Nuxt.js&logoColor=FFFFFF" /></a>
  	<!-- Reducx --><a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>
 	<!-- Next.js --><a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a>
-	<!-- NestJS --><a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-d9214c?style=flat&logo=Nestjs&logoColor=white" /></a>
 	<br />
 	<!-- React Native --><a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React Native-AD53BD?style=flat&logo=React&logoColor=white" /></a>
 	<!-- Flutter --><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-35B7F5?style=flat&logo=Flutter&logoColor=white" /></a>
