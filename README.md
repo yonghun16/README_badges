@@ -15,7 +15,7 @@
 <br />
  
 <!-- Vue.js --><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-34A06F?style=flat&logo=Vue.js&logoColor=white" /></a>
-<!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React.js&logoColor=white" /></a>
+<!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a>
 <!-- Svelte --><a href="https://svelte.dev/"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white" /></a>
 <!-- Angular --><a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=Angular&logoColor=white" /></a>	
 <br />
