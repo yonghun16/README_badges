@@ -56,12 +56,18 @@
 <!-- MySQL --><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></a>
 <!-- MariaDB --><a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-BA7157?style=flat&logo=MariaDB&logoColor=white" /></a>
 <!-- MongoDB --><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-016448?style=flat&logo=MongoDB&logoColor=white" /></a>
-	
+
+#### AI
+<!-- OpenAI --><a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" /></a>
+<!-- Lang Chain --><a href="https://www.langchain.com"><img src="https://img.shields.io/badge/Lang Chain-204544?style=flat&logo=langchain&logoColor=white" /></a>
+<!-- Tensor Flow --><a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/Tensor Flow-fe6f00?style=flat&logo=tensorflow&logoColor=white" /></a>
+<br />
+
 #### DevOps
 <!-- Apache --><a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-D32E35?style=flat&logo=Apache&logoColor=white" /></a>
 <!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a>
 <!-- IIS --><a href="https://www.iis.net/"><img src="https://img.shields.io/badge/IIS-053E54?style=flat&logo=Microsoft&logoColor=white" /></a>
- <!-- Tomcat --><a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black" /></a>
+<!-- Tomcat --><a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black" /></a>
 <br />
 
 <!-- Docker --><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0A6CD7?style=flat&logo=Docker&logoColor=white" /></a>
@@ -117,7 +123,6 @@
 <!-- Indesign --><a href="https://www.adobe.com/products/indesign.html"><img src="https://img.shields.io/badge/Adobe%20Indesign-FF3266?style=flat&logo=adobeIndesign&logoColor=white" /></a>
 <br />
 
-<!-- OpenAI --><a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" /></a>
 <!-- Youtube --><a href="https://www.youtube.com"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 <br />
 <br />
