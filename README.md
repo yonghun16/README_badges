@@ -38,10 +38,10 @@
 
 #### BackEnd
 <!-- Node.js --><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-44843D?style=flat&logo=Node.js&logoColor=white" /></a>
- <!-- Python --><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3876AB?style=flat&logo=Python&logoColor=white" /></a>
- <!-- C --><a href="https://devdocs.io/c/"><img src="https://img.shields.io/badge/C-659AD1?style=flat&logo=C&logoColor=white" /></a>
- <!-- C++ --><a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-01589E?style=flat&logo=C&logoColor=white" /></a>
- <!-- Java --><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-3D82A1?style=flat&logo=Conda-Forge&logoColor=white" /></a>
+<!-- Python --><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3876AB?style=flat&logo=Python&logoColor=white" /></a>
+<!-- C --><a href="https://devdocs.io/c/"><img src="https://img.shields.io/badge/C-659AD1?style=flat&logo=C&logoColor=white" /></a>
+<!-- C++ --><a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-01589E?style=flat&logo=C&logoColor=white" /></a>
+<!-- Java --><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-3D82A1?style=flat&logo=Conda-Forge&logoColor=white" /></a>
 <br />
 
 <!-- Express.js --><a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-303030?style=flat&logo=Express&logoColor=white" /></a>
