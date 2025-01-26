@@ -22,7 +22,7 @@
 
 <!-- Vuex --><a href="https://vuex.vuejs.org"><img src="https://img.shields.io/badge/Vuex-33465B?style=flat&logo=Vue.js&logoColor=white" /></a>
 <!-- Nuxt.js --><a href="https://nuxt.com"><img src="https://img.shields.io/badge/Nuxt.js-01BF89?style=flat&logo=Nuxt.js&logoColor=FFFFFF" /></a>
- <!-- Reducx --><a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>
+<!-- Reducx --><a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>
 <!-- Next.js --><a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a>
 <br />
 
@@ -46,6 +46,8 @@
 
 <!-- Express.js --><a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-303030?style=flat&logo=Express&logoColor=white" /></a>
 <!-- NestJS --><a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-EA2845?style=flat&logo=Nestjs&logoColor=white" /></a>
+
+<br />
 <!-- Django --><a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-082D1F?style=flat&logo=Django&logoColor=white" /></a>
 <!-- Flask --><a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-0C7963?style=flat&logo=Flask&logoColor=white" /></a>
 <!-- FastAPI --><a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009485?style=flat&logo=FastAPI&logoColor=white" /></a>
