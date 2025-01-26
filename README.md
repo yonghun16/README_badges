@@ -48,6 +48,7 @@
 <!-- NestJS --><a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-EA2845?style=flat&logo=Nestjs&logoColor=white" /></a>
 <!-- Django --><a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-082D1F?style=flat&logo=Django&logoColor=white" /></a>
 <!-- Flask --><a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-0C7963?style=flat&logo=Flask&logoColor=white" /></a>
+<!-- FastAPI --><a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009485?style=flat&logo=FastAPI&logoColor=white" /></a>
 <!-- Selenium --><a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" /></a>
 <!-- Spring --><a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /></a>
 <br />
