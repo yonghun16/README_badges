@@ -31,6 +31,7 @@
 <!-- Angular --><a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=Angular&logoColor=white" /></a>	
 <br />
 
+<!-- Dart --><a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dartk-04589C?style=flat&logo=Dart&logoColor=white" /></a>
 <!-- Flutter --><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-35B7F5?style=flat&logo=Flutter&logoColor=white" /></a>
 
 
@@ -56,13 +57,12 @@
 
 
 #### Bundler
-<!-- NPM --><a href="https://www.npmjs.com"><img src="https://img.shields.io/badge/NPM-CB0001?style=flat&logo=npm&logoColor=white" /></a>
-<!-- Yarn --><a href="https://yarnpkg.com"><img src="https://img.shields.io/badge/Yarn-514C87?style=flat&logo=yarn&logoColor=white" /></a>
+<!-- Webpack --><a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-324048?style=flat&logo=Webpack&logoColor=white" /></a>
 <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-636CFF?style=flat&logo=Vite&logoColor=white" /></a>
 <!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a>
 <!-- PWA --><a href="https://web.dev/progressive-web-apps/"><img src="https://img.shields.io/badge/PWA-6601ED?style=flat&logo=PWA&logoColor=white" /></a>
 
-#### AI Database
+#### AI & Database
 <!-- OpenAI --><a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" /></a>
 <!-- Lang Chain --><a href="https://www.langchain.com"><img src="https://img.shields.io/badge/Lang Chain-204544?style=flat&logo=langchain&logoColor=white" /></a>
 <!-- Tensor Flow --><a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/Tensor Flow-fe6f00?style=flat&logo=tensorflow&logoColor=white" /></a>
@@ -82,8 +82,8 @@
 
 <!-- Apache --><a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-D32E35?style=flat&logo=Apache&logoColor=white" /></a>
 <!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a>
-<!-- IIS --><a href="https://www.iis.net/"><img src="https://img.shields.io/badge/IIS-053E54?style=flat&logo=Microsoft&logoColor=white" /></a>
 <!-- Tomcat --><a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black" /></a>
+<!-- IIS --><a href="https://www.iis.net/"><img src="https://img.shields.io/badge/IIS-053E54?style=flat&logo=Microsoft&logoColor=white" /></a>
 <br />
 
 <!-- Debian --><a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-D80150?style=flat&logo=debian&logoColor=White" /></a>
@@ -103,7 +103,7 @@
 <!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 <!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white" /></a>	
 
-#### Platform of Education
+#### Education software
 <!-- JayPro --><a href=""><img src="https://img.shields.io/badge/JayPro-252F38?style=flat&logo=JayPro&logoColor=white" /></a>
 <!-- Scratch --><a href="https://scratch.mit.edu/"><img src="https://img.shields.io/badge/Scratch-F6A619?style=flat&logo=Scratch&logoColor=white" /></a>
 <!-- AppInventor --><a href="https://appinventor.mit.edu/"><img src="https://img.shields.io/badge/AppInventor-8FC200?style=flat&logo=AppInventor&logoColor=white" /></a>
