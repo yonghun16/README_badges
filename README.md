@@ -13,6 +13,8 @@
 
 <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a>
 <!-- TypeScript --><a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a>
+<!-- Canvas API --><a href="https://developer.mozilla.org/docs/Web/API/Canvas_API"><img src="https://img.shields.io/badge/Canvas-E90030?style=flat&logo=Canvas&logoColor=white" /></a>
+<!-- Three.js --><a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white" /></a>
 <!-- jQuery --><a href="https://jquery.com"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /></a>
 <br />
 
