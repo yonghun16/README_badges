@@ -57,6 +57,12 @@
 <!-- Java --><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-3D82A1?style=flat&logo=Conda-Forge&logoColor=white" /></a>
 <!-- Spring --><a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /></a>
 
+#### Database
+<!-- MySQL --><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></a>
+<!-- Sqlite --><a href="https://www.sqlite.com/"><img src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=SQLite&logoColor=white" /></a>
+<!-- MariaDB --><a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-BA7157?style=flat&logo=MariaDB&logoColor=white" /></a>
+<!-- MongoDB --><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" /></a>
+<!-- Oracle-db --><a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 
 #### Bundler
 <!-- Webpack --><a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-324048?style=flat&logo=Webpack&logoColor=white" /></a>
@@ -64,16 +70,11 @@
 <!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a>
 <!-- PWA --><a href="https://web.dev/progressive-web-apps/"><img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=PWA&logoColor=white" /></a>
 
-#### AI & Database
+#### AI
 <!-- OpenAI --><a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" /></a>
 <!-- Lang Chain --><a href="https://www.langchain.com"><img src="https://img.shields.io/badge/Lang Chain-204544?style=flat&logo=langchain&logoColor=white" /></a>
 <!-- Tensor Flow --><a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/Tensor Flow-fe6f00?style=flat&logo=tensorflow&logoColor=white" /></a>
 <br />
-
-<!-- Oracle-db --><a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
-<!-- MySQL --><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></a>
-<!-- MariaDB --><a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-BA7157?style=flat&logo=MariaDB&logoColor=white" /></a>
-<!-- MongoDB --><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" /></a>
 
 #### DevOps
 <!-- Github --><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
@@ -104,10 +105,15 @@
 <!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 <!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white" /></a>	
 
-#### Education software
+#### Education
 <!-- JayPro --><a href=""><img src="https://img.shields.io/badge/JayPro-252F38?style=flat&logo=JayPro&logoColor=white" /></a>
 <!-- Scratch --><a href="https://scratch.mit.edu/"><img src="https://img.shields.io/badge/Scratch-F6A619?style=flat&logo=Scratch&logoColor=white" /></a>
 <!-- AppInventor --><a href="https://appinventor.mit.edu/"><img src="https://img.shields.io/badge/AppInventor-8FC200?style=flat&logo=AppInventor&logoColor=white" /></a>
+<br />
+<!-- Backjun --><a href="https://www.acmicpc.net/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/backjun.png" height=20px /></a>
+<!-- Goorm --><a href="https://level.goorm.io/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/goorm.png" height=20px /></a>
+<!-- Jungol--><a href="https://www.jungol.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/jungol.png" height=20px /></a>
+<!-- Programmers --><a href="https://programmers.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/programmers.png" height=20px /></a>
 <br />
 <br />
 
@@ -134,10 +140,5 @@
 <br />
 
 
-## 🔗 Etc
 
-<!-- Backjun --><a href="https://www.acmicpc.net/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/backjun.png" height=20px /></a>
-<!-- Goorm --><a href="https://level.goorm.io/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/goorm.png" height=20px /></a>
-<!-- Jungol--><a href="https://www.jungol.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/jungol.png" height=20px /></a>
-<!-- Programmers --><a href="https://programmers.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/programmers.png" height=20px /></a>
-</div>
+<!-- https://simpleicons.org/ -->
