@@ -8,6 +8,7 @@
 <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>
 <!-- SCSS --><a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" /></a>
 <!-- Tailwind CSS --><a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>
+<!-- Styled Components --><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=Styled%20Components&logoColor=white" /></a>
 <!-- Bootstrap --><a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /></a>
 <br />
 
