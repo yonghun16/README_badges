@@ -31,7 +31,7 @@
 <!-- Tailwind CSS --><a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>
 <br />
 
-<!-- React Native --><a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React Native-58B4CD?style=flat&logo=React&logoColor=white" /></a>
+<!-- React Native --><a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React Native-0A7EA3?style=flat&logo=React&logoColor=white" /></a>
 <!-- Next.js --><a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a>
 <br />
 
@@ -114,6 +114,7 @@
 <br />
 
 <!-- Firebase --><a href="https://firebase.google.com"/><img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white" /></a>
+<!-- Supabase --><a href="https://supabase.com"/><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white" /></a>
 <!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 <!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white" /></a>	
 
