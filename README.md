@@ -7,8 +7,6 @@
 
 <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>
 <!-- SCSS --><a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" /></a>
-<!-- Tailwind CSS --><a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>
-<!-- Styled Components --><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=Styled%20Components&logoColor=white" /></a>
 <!-- Bootstrap --><a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /></a>
 <br />
 
@@ -20,9 +18,17 @@
 <br />
 
 <!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a>
+<!-- React Router --><a href="https://reactrouter.com"><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=React%20router&logoColor=white" /></a>
+<!-- React Query --><a href="https://tanstack.com/query/latest"><img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=React%20query&logoColor=white" /></a>
+<!-- React Hook Form --><a href="https://react-hook-form.com"><img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=React%20hook%20form&logoColor=white" /></a>
+
+<!-- Reducx --><a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>
+<!-- Styled Components --><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=Styled%20Components&logoColor=white" /></a>
+<!-- Tailwind CSS --><a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>
+<br />
+
 <!-- React Native --><a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React Native-58B4CD?style=flat&logo=React&logoColor=white" /></a>
 <!-- Next.js --><a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a>
-<!-- Reducx --><a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>
 <br />
 
 <!-- Vue.js --><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" /></a>
