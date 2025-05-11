@@ -21,7 +21,12 @@
 <!-- React Router --><a href="https://reactrouter.com"><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=React%20router&logoColor=white" /></a>
 <!-- React Query --><a href="https://tanstack.com/query/latest"><img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=React%20query&logoColor=white" /></a>
 <!-- React Hook Form --><a href="https://react-hook-form.com"><img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=React%20hook%20form&logoColor=white" /></a>
+<br />
+
+<!-- Recoil --><a href="https://recoiljs.org"><img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white" /></a>
 <!-- Reducx --><a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>
+<br />
+
 <!-- Styled Components --><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=Styled%20Components&logoColor=white" /></a>
 <!-- Tailwind CSS --><a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>
 <br />
@@ -74,6 +79,7 @@
 <!-- Webpack --><a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-324048?style=flat&logo=Webpack&logoColor=white" /></a>
 <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a>
 <!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a>
+<!-- Create React App --><a href="https://create-react-app.dev/"><img src="https://img.shields.io/badge/Create%20React%20App-09D3AC?style=flat&logo=Create%20React%20App&logoColor=white" /></a>
 <!-- PWA --><a href="https://web.dev/progressive-web-apps/"><img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=PWA&logoColor=white" /></a>
 
 #### AI
