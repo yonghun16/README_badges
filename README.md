@@ -134,6 +134,7 @@
 ## 🛠 Tools
 
 <!-- Vim --><a href="https://www.vim.org"><img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" /></a>
+<!-- Cursor --><a href="https://www.cursor.com"><img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=Cursor&logoColor=white" /></a>
 <!-- VScode --><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /></a>
 <!-- Sublime Text --><a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white" /></a>
 <!-- Jet Brains --><a href="https://www.jetbrains.com/"><img src="https://img.shields.io/badge/Jet%20Brains-080809?style=flat&logo=jetbrains&logoColor=white" /></a>	
