@@ -1,6 +1,8 @@
-## 📚 Tech Stack
+# 📚 Tech Stack
 
-#### FrontEnd
+
+
+### 🌐 FrontEnd
 <!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>
 <!-- PUG --><a href="https://pugjs.org"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a>
 <br />
@@ -46,9 +48,11 @@
 
 <!-- Dart --><a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dartk-0175C2?style=flat&logo=Dart&logoColor=white" /></a>
 <!-- Flutter --><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" /></a>
+<br /><br />
 
 
-#### BackEnd
+
+### 🗄️ BackEnd
 <!-- Python --><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /></a>
 <!-- Django --><a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /></a>
 <!-- Flask --><a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" /></a>
@@ -67,6 +71,21 @@
 
 <!-- Java --><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-3D82A1?style=flat&logo=Conda-Forge&logoColor=white" /></a>
 <!-- Spring --><a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /></a>
+<br /><br />
+
+
+
+### 🚀 DevOps
+#### Containerization Platform
+<!-- Docker --><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" /></a>
+<!-- Kubernetes --><a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" /></a>
+<br />
+
+#### AI
+<!-- OpenAI --><a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" /></a>
+<!-- Lang Chain --><a href="https://www.langchain.com"><img src="https://img.shields.io/badge/Lang Chain-204544?style=flat&logo=langchain&logoColor=white" /></a>
+<!-- Tensor Flow --><a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/Tensor Flow-fe6f00?style=flat&logo=tensorflow&logoColor=white" /></a>
+<br />
 
 #### Database
 <!-- MySQL --><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></a>
@@ -81,26 +100,26 @@
 <!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a>
 <!-- Create React App --><a href="https://create-react-app.dev/"><img src="https://img.shields.io/badge/Create%20React%20App-09D3AC?style=flat&logo=Create%20React%20App&logoColor=white" /></a>
 <!-- PWA --><a href="https://web.dev/progressive-web-apps/"><img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=PWA&logoColor=white" /></a>
-
-#### AI
-<!-- OpenAI --><a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" /></a>
-<!-- Lang Chain --><a href="https://www.langchain.com"><img src="https://img.shields.io/badge/Lang Chain-204544?style=flat&logo=langchain&logoColor=white" /></a>
-<!-- Tensor Flow --><a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/Tensor Flow-fe6f00?style=flat&logo=tensorflow&logoColor=white" /></a>
 <br />
 
-#### DevOps
+#### Serverless Platform
+<!-- Firebase --><a href="https://firebase.google.com"/><img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white" /></a>
+<!-- Supabase --><a href="https://supabase.com"/><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white" /></a>
+<br />
+
+#### Hosting Platform
 <!-- Github --><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
 <!-- Replit --><a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-F26207?style=flat&logo=Replit&logoColor=white" /></a>
 <!-- Netlify --><a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/netlify-1EC0B1?style=flat&logo=Netlify&logoColor=white" /></a>
 <!-- Vercel --><a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a>
 <br />
 
-<!-- Apache --><a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-D32E35?style=flat&logo=Apache&logoColor=white" /></a>
-<!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a>
-<!-- Tomcat --><a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black" /></a>
-<!-- IIS --><a href="https://www.iis.net/"><img src="https://img.shields.io/badge/IIS-053E54?style=flat&logo=Microsoft&logoColor=white" /></a>
+#### Infrastructure as a Service (IaaS)
+<!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
+<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white" /></a>	
 <br />
 
+#### OS
 <!-- Debian --><a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=White" /></a>
 <!-- Ubuntu --><a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=FFFFFF" /></a>
 <!-- Redhat --><a href="https://www.redhat.com/"><img src="https://img.shields.io/badge/Redhat-EE0000?style=flat&logo=Redhat&logoColor=White" /></a>
@@ -109,29 +128,16 @@
 <!-- Oracle Linux --><a href="https://www.oracle.com/linux/"><img src="https://img.shields.io/badge/Oracle Linux-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 <br />
 
-<!-- Docker --><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" /></a>
-<!-- Kubernetes --><a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" /></a>
-<br />
-
-<!-- Firebase --><a href="https://firebase.google.com"/><img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white" /></a>
-<!-- Supabase --><a href="https://supabase.com"/><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white" /></a>
-<!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
-<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white" /></a>	
-
-#### Education
-<!-- JayPro --><a href=""><img src="https://img.shields.io/badge/JayPro-252F38?style=flat&logo=JayPro&logoColor=white" /></a>
-<!-- Scratch --><a href="https://scratch.mit.edu/"><img src="https://img.shields.io/badge/Scratch-F6A619?style=flat&logo=Scratch&logoColor=white" /></a>
-<!-- AppInventor --><a href="https://appinventor.mit.edu/"><img src="https://img.shields.io/badge/AppInventor-8FC200?style=flat&logo=AppInventor&logoColor=white" /></a>
-<br />
-<!-- Backjun --><a href="https://www.acmicpc.net/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/backjun.png" height=20px /></a>
-<!-- Goorm --><a href="https://level.goorm.io/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/goorm.png" height=20px /></a>
-<!-- Jungol--><a href="https://www.jungol.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/jungol.png" height=20px /></a>
-<!-- Programmers --><a href="https://programmers.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/programmers.png" height=20px /></a>
-<br />
-<br />
+#### Web Server
+<!-- Apache --><a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-D32E35?style=flat&logo=Apache&logoColor=white" /></a>
+<!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a>
+<!-- Tomcat --><a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black" /></a>
+<!-- IIS --><a href="https://www.iis.net/"><img src="https://img.shields.io/badge/IIS-053E54?style=flat&logo=Microsoft&logoColor=white" /></a>
+<br /><br />
 
 
-## 🛠 Tools
+
+### 🛠 Tools
 
 <!-- Vim --><a href="https://www.vim.org"><img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" /></a>
 <!-- Cursor --><a href="https://www.cursor.com"><img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=Cursor&logoColor=white" /></a>
@@ -150,8 +156,20 @@
 <!-- Figma --><a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></a>
 <!-- Sketch --><a href="https://www.sketch.com/"><img src="https://img.shields.io/badge/Sketch-F4A601?style=flat&logo=Sketch&logoColor=white" /></a>
 <!-- miro --><a href="https://miro.com/"><img src="https://img.shields.io/badge/miro-FEDD33?style=flat&logo=miro&logoColor=white" /></a>
+<br /><br />
+
+
+
+### 📘 Education
+<!-- JayPro --><a href=""><img src="https://img.shields.io/badge/JayPro-252F38?style=flat&logo=JayPro&logoColor=white" /></a>
+<!-- Scratch --><a href="https://scratch.mit.edu/"><img src="https://img.shields.io/badge/Scratch-F6A619?style=flat&logo=Scratch&logoColor=white" /></a>
+<!-- AppInventor --><a href="https://appinventor.mit.edu/"><img src="https://img.shields.io/badge/AppInventor-8FC200?style=flat&logo=AppInventor&logoColor=white" /></a>
 <br />
-<br />
+<!-- Backjun --><a href="https://www.acmicpc.net/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/backjun.png" height=20px /></a>
+<!-- Goorm --><a href="https://level.goorm.io/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/goorm.png" height=20px /></a>
+<!-- Jungol--><a href="https://www.jungol.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/jungol.png" height=20px /></a>
+<!-- Programmers --><a href="https://programmers.co.kr/"><img src="https://github.com/yonghun16/README_settings/blob/main/images/programmers.png" height=20px /></a>
+<br /><br />
 
 
 
