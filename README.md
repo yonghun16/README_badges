@@ -27,14 +27,17 @@
 
 <!-- Recoil --><a href="https://recoiljs.org"><img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white" /></a>
 <!-- Reducx --><a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>
+<!-- MobX --><a href="https://mobx.js.org/README.html"><img src="https://img.shields.io/badge/MobX-FF9955?style=flat&logo=MobX&logoColor=white" /></a>
 <br />
 
 <!-- Styled Components --><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=Styled%20Components&logoColor=white" /></a>
 <!-- Tailwind CSS --><a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>
+<!-- MUI --><a href="https://mui.com"><img src="https://img.shields.io/badge/Mui-007FFF?style=flat&logo=mui&logoColor=white" /></a>
 <br />
 
 <!-- React Native --><a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React Native-0A7EA3?style=flat&logo=React&logoColor=white" /></a>
 <!-- Next.js --><a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a>
+<!-- Remix --><a href="https://remix.run/"><img src="https://img.shields.io/badge/Remix-000000?style=flat&logo=Remix&logoColor=white" /></a>
 <br />
 
 <!-- Vue.js --><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" /></a>
@@ -85,6 +88,7 @@
 <!-- OpenAI --><a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" /></a>
 <!-- Lang Chain --><a href="https://www.langchain.com"><img src="https://img.shields.io/badge/Lang Chain-204544?style=flat&logo=langchain&logoColor=white" /></a>
 <!-- Tensor Flow --><a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/Tensor Flow-fe6f00?style=flat&logo=tensorflow&logoColor=white" /></a>
+<!-- PyTorch --><a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" /></a>
 <br />
 
 #### Database
