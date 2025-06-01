@@ -96,6 +96,7 @@
 <!-- Sqlite --><a href="https://www.sqlite.com/"><img src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=SQLite&logoColor=white" /></a>
 <!-- MariaDB --><a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-BA7157?style=flat&logo=MariaDB&logoColor=white" /></a>
 <!-- MongoDB --><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" /></a>
+<!-- PostgreSQL --><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" /></a>
 <!-- Oracle-db --><a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 
 #### Bundler
