@@ -74,8 +74,12 @@
 
 <!-- Java --><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-3D82A1?style=flat&logo=Conda-Forge&logoColor=white" /></a>
 <!-- Spring --><a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /></a>
-<br /><br />
+<!-- Spring Boot --><a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" /></a>
+<!-- Gradle --><a href="https://gradle.org"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" /></a>
+<br />
 
+<!-- Redis --><a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white" /></a>
+<br /><br />
 
 
 ### 🚀 DevOps
