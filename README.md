@@ -1,13 +1,6 @@
 # 📚 Tech Stack
 
-### 🧠 AI
-<!-- Python --><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /></a>
-<br />
-<!-- Django --><a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /></a>
-<!-- Flask --><a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" /></a>
-<!-- FastAPI --><a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" /></a>
-<!-- Selenium --><a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" /></a>
-<br />
+### 🧠 ML / DL / LLM
 <!-- Numpy --><a href="https://numpy.org/"><img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white" /></a>
 <!-- Pandas --><a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" /></a>
 <br />
@@ -17,6 +10,7 @@
 <!-- Keras --><a href="https://keras.io/"><img src="https://img.shields.io/badge/keras-D00000?style=flat&logo=keras&logoColor=white" /></a>
 <br />
 <!-- MLflow --><a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=MLflow&logoColor=white" /></a>
+<!-- Matplotlib --><a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" /></a>
 <br />
 <!-- OpenAI --><a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" /></a>
 <!-- Lang Chain --><a href="https://www.langchain.com"><img src="https://img.shields.io/badge/Lang Chain-204544?style=flat&logo=langchain&logoColor=white" /></a>
@@ -67,6 +61,12 @@
 
 
 ### 🗄️ BackEnd
+<!-- Python --><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /></a>
+<!-- Django --><a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /></a>
+<!-- Flask --><a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" /></a>
+<!-- FastAPI --><a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" /></a>
+<!-- Selenium --><a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" /></a>
+<br />
 <!-- Node.js --><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white" /></a>
 <!-- Express.js --><a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" /></a>
 <!-- NestJS --><a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=Nestjs&logoColor=white" /></a>
