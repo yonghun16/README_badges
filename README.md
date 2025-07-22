@@ -36,6 +36,7 @@
 <!-- React Query --><a href="https://tanstack.com/query/latest"><img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=React%20query&logoColor=white" /></a>
 <!-- React Hook Form --><a href="https://react-hook-form.com"><img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=React%20hook%20form&logoColor=white" /></a>
 <br />
+<!-- Zustand --><a href="https://recoiljs.org"><img src="https://img.shields.io/badge/Zustand-FF9551?style=flat&logo=Zustand&logoColor=white" /></a>
 <!-- Recoil --><a href="https://recoiljs.org"><img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white" /></a>
 <!-- Reducx --><a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>
 <!-- MobX --><a href="https://mobx.js.org/README.html"><img src="https://img.shields.io/badge/MobX-FF9955?style=flat&logo=MobX&logoColor=white" /></a>
