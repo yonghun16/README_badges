@@ -81,6 +81,7 @@
 <!-- Gradle --><a href="https://gradle.org"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" /></a>
 <br />
 <!-- Redis --><a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white" /></a>
+<!-- Apache Kafka --><a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Kafka-2F5277?style=flat&logo=Apache%20Kafka&logoColor=white" /></a>
 <br /><br />
 
 
