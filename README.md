@@ -100,6 +100,7 @@
 
 #### Bundler
 <!-- Webpack --><a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-324048?style=flat&logo=Webpack&logoColor=white" /></a>
+<!-- Turborepo --><a href="https://turborepo.com/"><img src="https://img.shields.io/badge/turborepo-FF1E56?style=flat&logo=turborepo&logoColor=white" /></a>
 <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a>
 <!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a>
 <!-- Create React App --><a href="https://create-react-app.dev/"><img src="https://img.shields.io/badge/Create%20React%20App-09D3AC?style=flat&logo=Create%20React%20App&logoColor=white" /></a>
