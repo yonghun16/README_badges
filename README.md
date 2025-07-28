@@ -115,6 +115,7 @@
 <!-- Replit --><a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-F26207?style=flat&logo=Replit&logoColor=white" /></a>
 <!-- Netlify --><a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/netlify-1EC0B1?style=flat&logo=Netlify&logoColor=white" /></a>
 <!-- Vercel --><a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a>
+<!-- Render --><a href="https://render.com/"><img src="https://img.shields.io/badge/Render-000000?style=flat&logo=Render&logoColor=white" /></a>
 
 #### Infrastructure as a Service (IaaS)
 <!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
