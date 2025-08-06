@@ -97,7 +97,8 @@
 <!-- MongoDB --><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" /></a>
 <!-- mongoose --><a href="https://mongoosejs.com/"><img src="https://img.shields.io/badge/mongoose-880000?style=flat&logo=mongoose&logoColor=white" /></a>
 <!-- PostgreSQL --><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" /></a>
-<!-- Oracle-db --><a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
+<!-- Oracle DB --><a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
+<!-- Click House --><a href="https://clickhouse.com/"><img src="https://img.shields.io/badge/clickhouse-FFCC01?style=flat&logo=clickhouse&logoColor=white" /></a>
 
 #### Bundler
 <!-- Webpack --><a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-324048?style=flat&logo=Webpack&logoColor=white" /></a>
