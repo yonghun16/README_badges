@@ -7,7 +7,7 @@
 <!-- Scikit Learn --><a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat&logo=Scikitlearn&logoColor=white" /></a>
 <!-- Tensor Flow --><a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/Tensor Flow-fe6f00?style=flat&logo=tensorflow&logoColor=white" /></a>
 <!-- PyTorch --><a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" /></a>
-<!-- Keras --><a href="https://keras.io/"><img src="https://img.shields.io/badge/keras-D00000?style=flat&logo=keras&logoColor=white" /></a>
+<!-- Keras --><a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" /></a>
 <br />
 <!-- MLflow --><a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=MLflow&logoColor=white" /></a>
 <!-- Matplotlib --><a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" /></a>
@@ -95,14 +95,14 @@
 <!-- Sqlite --><a href="https://www.sqlite.com/"><img src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=SQLite&logoColor=white" /></a>
 <!-- MariaDB --><a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-BA7157?style=flat&logo=MariaDB&logoColor=white" /></a>
 <!-- MongoDB --><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" /></a>
-<!-- mongoose --><a href="https://mongoosejs.com/"><img src="https://img.shields.io/badge/mongoose-880000?style=flat&logo=mongoose&logoColor=white" /></a>
+<!-- mongoose --><a href="https://mongoosejs.com/"><img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=Mongoose&logoColor=white" /></a>
 <!-- PostgreSQL --><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" /></a>
 <!-- Oracle DB --><a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
-<!-- Click House --><a href="https://clickhouse.com/"><img src="https://img.shields.io/badge/clickhouse-FFCC01?style=flat&logo=clickhouse&logoColor=white" /></a>
+<!-- Click House --><a href="https://clickhouse.com/"><img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=ClickHouse&logoColor=white" /></a>
 
 #### Bundler
 <!-- Webpack --><a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-324048?style=flat&logo=Webpack&logoColor=white" /></a>
-<!-- Turborepo --><a href="https://turborepo.com/"><img src="https://img.shields.io/badge/turborepo-FF1E56?style=flat&logo=turborepo&logoColor=white" /></a>
+<!-- Turborepo --><a href="https://turborepo.com/"><img src="https://img.shields.io/badge/Turborepo-FF1E56?style=flat&logo=Turborepo&logoColor=white" /></a>
 <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a>
 <!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a>
 <!-- Create React App --><a href="https://create-react-app.dev/"><img src="https://img.shields.io/badge/Create%20React%20App-09D3AC?style=flat&logo=Create%20React%20App&logoColor=white" /></a>
