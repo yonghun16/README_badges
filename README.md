@@ -99,6 +99,7 @@
 <!-- PostgreSQL --><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" /></a>
 <!-- Oracle DB --><a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 <!-- Click House --><a href="https://clickhouse.com/"><img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=ClickHouse&logoColor=white" /></a>
+<!-- milvus --><a href="https://milvus.io/ko"><img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat&logo=Milvus&logoColor=white" /></a>
 
 #### Bundler
 <!-- Webpack --><a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-324048?style=flat&logo=Webpack&logoColor=white" /></a>
